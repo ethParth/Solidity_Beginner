@@ -5,7 +5,7 @@ It also contains the public variables that contain, the Name, Symbol, and TotalS
 
 # Getting Started
 
-Open the online Remix IDE by going to [Remix](https://remix.ethereum.org/}.
+Open the online Remix IDE by going to [Remix](https://remix.ethereum.org/).
 Copy the code from the file and paste in the editor.
 Compile the contract, and deploy on Remix.
 
