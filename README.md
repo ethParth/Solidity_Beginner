@@ -22,7 +22,6 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 ## Authors
 
 Parth Verma
-[@vermaparth](https://twitter.com/verma_parth79)
 
 
 ## License
